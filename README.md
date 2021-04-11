@@ -6,8 +6,7 @@ Projeto desenvolvido durante o meu primeiro estudo de automação com Ruby e Cap
 Utilizo de asserções para validar o conteúdo exibido no site da [Playstaion](https://www.playstation.com/pt-br/).
 
 
-### :construction: Em construção :construction:
----
+## :construction: Em construção :construction:
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
 - [Ruby](https://www.ruby-lang.org/pt/)
