@@ -7,6 +7,12 @@ Utilizo de asserções para validar o conteúdo exibido no site da [Playstaion](
 
 
 ### :construction: Em construção :construction:
+---
+
+## :hammer_and_wrench: Tecnologias Utilizadas
+- [Ruby](https://www.ruby-lang.org/pt/)
+- [Cucumber](https://cucumber.io/)
+- [Capybara](https://github.com/teamcapybara/capybara)
 
 
 ##
